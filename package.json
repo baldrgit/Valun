@@ -1,0 +1,14 @@
+{
+    "name": "VALUN Engine",
+    "description": "VALUN is an easy-to-use and fast game engine",
+    "version": "",
+    "main": "./",
+    "author": {
+        "name": "Anthony Vorobyov",
+        "email": "baldrgit@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/baldrgit/Valun.git"
+    }
+}
